@@ -1,0 +1,1 @@
+C:\Users\TiMan\AppData\Local\Programs\Python\Python38-32\pythonw.exe C:\Users\TiMan\Desktop\python\db.py
